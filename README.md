@@ -6,7 +6,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 🧠 Languages & Frameworks
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,18 +40,31 @@
 
 ---
 
-## 🎯 GitHub Badges
+## 🧑‍💻 Tools & Platforms
 
-<!-- These are “live” shields from GitHub/Shields.io that update automatically: -->
-![Profile Views](https://komarev.com/ghpvc/?username=abhasbali&label=Profile%20views&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/abhasbali?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/abhasbali?style=social)
-![GitHub Repos](https://img.shields.io/github/repos/abhasbali?style=social)
-![GitHub Gists](https://img.shields.io/github/gists/abhasbali?style=social)
-![GitHub License](https://img.shields.io/github/license/abhasbali/abhasbali)
-![Top Languages](https://img.shields.io/github/languages/top/abhasbali/abhasbali)
-![Open Issues](https://img.shields.io/github/issues/abhasbali/abhasbali)
-![Pull Requests](https://img.shields.io/github/issues-pr/abhasbali/abhasbali)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=white)
+
+---
+
+## 🎯 GitHub Badges (Simulated)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-15k-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-450-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-1200-yellow?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Public%20Repos-75-orange?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Gists-8-purple?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-250-lightgrey?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Issues%20Opened-300-red?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-5k-brightgreen?style=flat-square&logo=github" />
+</p>
 
 ---
 
@@ -80,5 +93,7 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=abhasbali&icon=5&color=12&pretty=true" />
 </p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
