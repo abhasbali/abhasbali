@@ -7,8 +7,8 @@
 ---
 
 # 💻 Tech Stack:
-Here’s a concise set of 20+ coding badges that highlight my strengths:
 
+### 🧠 Languages & Frameworks
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,23 +17,41 @@ Here’s a concise set of 20+ coding badges that highlight my strengths:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### ⚛️ Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🗃️ Database & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+### 🤖 Machine Learning & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 🎯 GitHub Badges
+
+<!-- These are “live” shields from GitHub/Shields.io that update automatically: -->
+![Profile Views](https://komarev.com/ghpvc/?username=abhasbali&label=Profile%20views&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/abhasbali?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/abhasbali?style=social)
+![GitHub Repos](https://img.shields.io/github/repos/abhasbali?style=social)
+![GitHub Gists](https://img.shields.io/github/gists/abhasbali?style=social)
+![GitHub License](https://img.shields.io/github/license/abhasbali/abhasbali)
+![Top Languages](https://img.shields.io/github/languages/top/abhasbali/abhasbali)
+![Open Issues](https://img.shields.io/github/issues/abhasbali/abhasbali)
+![Pull Requests](https://img.shields.io/github/issues-pr/abhasbali/abhasbali)
 
 ---
 
@@ -62,7 +80,5 @@ Here’s a concise set of 20+ coding badges that highlight my strengths:
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=abhasbali&icon=5&color=12&pretty=true" />
 </p>
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
