@@ -94,6 +94,11 @@
 ## 🏅 Coding Badges
 
 <p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" title="CSS3" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/json-5.svg" alt="JSON" title="JSON" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" title="Vite" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" title="Git" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" title="Docker" width="80" />
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" title="jQuery" width="80" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" title="React Native" width="80" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" title="Node.js" width="80" />
@@ -112,6 +117,7 @@
   <img src="https://www.svgrepo.com/show/353397/android-icon.svg" alt="Android" title="Android" width="80" />
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring Framework" width="80" />
 </p>
+
 
 
 ---
