@@ -53,7 +53,7 @@
 
 ---
 
-## 🎯 GitHub Badges (Simulated)
+## 🎯 GitHub Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-15k-blue?style=flat-square&logo=github" />
@@ -68,25 +68,7 @@
 
 
 ---
-## 💻 Motion Coding Badges
 
-<p align="center">
-  <img src="https://your-hosting.com/badges/python-master.gif" width="100" />
-  <img src="https://your-hosting.com/badges/fullstack-hero.gif" width="100" />
-  <img src="https://your-hosting.com/badges/dsa-wizard.gif" width="100" />
-  <img src="https://your-hosting.com/badges/bug-basher.gif" width="100" />
-  <img src="https://your-hosting.com/badges/frontend-freak.gif" width="100" />
-  <img src="https://your-hosting.com/badges/backend-beast.gif" width="100" />
-  <img src="https://your-hosting.com/badges/git-god.gif" width="100" />
-  <img src="https://your-hosting.com/badges/api-ninja.gif" width="100" />
-  <img src="https://your-hosting.com/badges/debug-dominator.gif" width="100" />
-  <img src="https://your-hosting.com/badges/hackathon-hustler.gif" width="100" />
-  <img src="https://your-hosting.com/badges/data-devotee.gif" width="100" />
-  <img src="https://your-hosting.com/badges/javascript-jedi.gif" width="100" />
-  <img src="https://your-hosting.com/badges/linux-lover.gif" width="100" />
-  <img src="https://your-hosting.com/badges/ai-architect.gif" width="100" />
-  <img src="https://your-hosting.com/badges/project-prince.gif" width="100" />
-</p>
 
 
 ## 📊 GitHub Stats & Activity
