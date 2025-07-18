@@ -1,3 +1,54 @@
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhasbali&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="200" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhasbali&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhasbali&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="200" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhasbali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+</p>
+
+---
+
+## 🏅 Coding Badges
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" title="CSS3" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/json-5.svg" alt="JSON" title="JSON" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" title="Vite" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" title="Git" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" title="Docker" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" title="jQuery" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" title="React Native" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" title="Node.js" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" title="TypeScript" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" title="Java" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" title="HackerRank" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" title="Python" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" title="Angular" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" title="Bootstrap" width="80" style="margin: 6px;" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" title="Heart On Your Sleeve" width="80" style="margin: 6px;" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" title="YOLO" width="80" style="margin: 6px;" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Star Struck" title="Star Struck" width="80" style="margin: 6px;" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" alt="Mars 2020 Contributor" title="Mars 2020 Contributor" width="80" style="margin: 6px;" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" alt="Arctic Code Vault" title="Arctic Code Vault Contributor" width="80" style="margin: 6px;" />
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" title="Next.js" width="80" style="margin: 6px;" />
+  <img src="https://www.svgrepo.com/show/353397/android-icon.svg" alt="Android" title="Android" width="80" style="margin: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring Framework" width="80" style="margin: 6px;" />
+</p>
+
+
+
+---
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/abhasbali)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abhasbali)
@@ -65,59 +116,6 @@
   <img src="https://img.shields.io/badge/Issues%20Opened-300-red?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Contributions-5k-brightgreen?style=flat-square&logo=github" />
 </p>
-
-
----
-
-
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhasbali&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="200" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhasbali&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhasbali&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="200" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhasbali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
-
-## 🏅 Coding Badges
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" title="CSS3" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/json-5.svg" alt="JSON" title="JSON" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" title="Vite" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" title="Git" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" title="Docker" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" title="jQuery" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" title="React Native" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" title="Node.js" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" title="TypeScript" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" title="Java" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" title="HackerRank" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" title="Python" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" title="Angular" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" title="Bootstrap" width="80" />
-  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" title="Heart On Your Sleeve" width="80" />
-  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" title="YOLO" width="80" />
-  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Star Struck" title="Star Struck" width="80" />
-  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" alt="Mars 2020 Contributor" title="Mars 2020 Contributor" width="80" />
-  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" alt="Arctic Code Vault" title="Arctic Code Vault Contributor" width="80" />
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" title="Next.js" width="80" />
-  <img src="https://www.svgrepo.com/show/353397/android-icon.svg" alt="Android" title="Android" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring Framework" width="80" />
-</p>
-
 
 
 ---
