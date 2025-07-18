@@ -91,11 +91,23 @@
 
 ---
 
-## 🚀 Visitor Count
+## 🏅 Coding Badges
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abhasbali&icon=5&color=12&pretty=true" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" title="HackerRank" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" title="Python" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" title="Angular" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" title="Bootstrap" width="80" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" title="Heart On Your Sleeve" width="80" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" title="YOLO" width="80" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Star Struck" title="Star Struck" width="80" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" alt="Mars 2020 Contributor" title="Mars 2020 Contributor" width="80" />
+  <img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" alt="Arctic Code Vault" title="Arctic Code Vault Contributor" width="80" />
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" title="Next.js" width="80" />
+  <img src="https://www.svgrepo.com/show/353397/android-icon.svg" alt="Android" title="Android" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring Framework" width="80" />
 </p>
+
 
 ---
 
