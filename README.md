@@ -94,6 +94,11 @@
 ## 🏅 Coding Badges
 
 <p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" title="jQuery" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" title="React Native" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" title="Node.js" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" title="TypeScript" width="80" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" title="Java" width="80" />
   <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" title="HackerRank" width="80" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" title="Python" width="80" />
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" title="Angular" width="80" />
